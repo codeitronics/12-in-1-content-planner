@@ -67,7 +67,7 @@ INPUT (from Google Sheet row):
   "cta_keyword": "FLOW",
   "lead_magnet": "12-in-1 Content Planner n8n JSON",
   "brand": {
-    "channel_name": "CodeITronics / Avnish",
+    "channel_name": "CodeITronics",
     "promise": "Build once. Automate forever.",
     "tone": "calm, confident, engineering-led; no hype"
   }
